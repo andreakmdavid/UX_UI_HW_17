@@ -1,0 +1,11 @@
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+nav {
+    text-align: center;
+    color: grey;
+    display: inline-block;
+    vertical-align: top;
+    
+  }
